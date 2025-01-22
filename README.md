@@ -11,7 +11,7 @@ Key findings:
 - SVD showed the greatest variation in dimensional reduction, indicating its sensitivity to the underlying data structure.
 - The reconstructed images from reduced dimensions demonstrated the effectiveness of these methods in capturing core information while minimizing dimensionality.
 
-For detailed information, please refer to the [Project 1 Report](DM_Project_1.pdf).
+For detailed information, please refer to the [Project 1 Report](Project_1/Report/DM_Project_1.pdf).
 
 ## Project 2: Classification
 
