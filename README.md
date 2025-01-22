@@ -25,7 +25,7 @@ Key steps and findings:
 5. Conducted random downsampling experiments to analyze the impact of training set size on model accuracy.
 6. Proposed a single classifier solution using a Decision Tree with hyperparameter tuning, which outperformed classic classifiers.
 
-For detailed information, please refer to the [Project 2 Report](DM_Project_2.pdf).
+For detailed information, please refer to the [Project 2 Report](Project_2/Report/DM_Project_2.pdf).
 
 ## Project 3: Clustering
 
@@ -38,7 +38,7 @@ Key steps and findings:
 4. Applied the modified K-means algorithm to the financial transaction dataset and analyzed the resulting clusters.
 5. Demonstrated the effectiveness of the modified K-means algorithm for both datasets through high Silhouette Scores, effective normalization, strategic feature engineering, and autonomous determination of cluster numbers.
 
-For detailed information, please refer to the [Project 3 Report](DM_Project_3.pdf).
+For detailed information, please refer to the [Project 3 Report](Project_3/Report/DM_Project_3.pdf).
 
 ## Repository Structure
 
